@@ -1,2 +1,2 @@
-# OOP_project
+# oop_project
 Definition of classes for a a pet adoption center
